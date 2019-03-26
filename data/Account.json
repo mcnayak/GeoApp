@@ -1,0 +1,30 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Hyatt",
+            "BillingStreet": "5 Embarcadero Center",
+            "BillingCity": "San Francisco",
+            "BillingState": "CA",
+            "BillingPostalCode": "94111",
+            "Phone": "(415) 788-1234",
+            "Website": "www.hyatt.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Hilton Union Square",
+            "BillingStreet": "333 O Farrell St",
+            "BillingCity": "San Francisco",
+            "BillingState": "CA",
+            "BillingPostalCode": "94102",
+            "Phone": "(415) 771-1400",
+            "Website": "www.hilton.com"
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+[
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1548440105694,
+            "changeTime": 1548440105694,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1548440105694,
+            "changeTime": 1548440105694,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1548443101358,
+            "changeTime": 1548443101358,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1548440105694,
+            "changeTime": 1548440105694,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1548440886421,
+            "changeTime": 1548440886421,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Geolocation__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Geolocation__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 409,
+            "modifiedTime": 1548443101280,
+            "changeTime": 1548443101280,
+            "contentHash": "e2b6b79bde30e8133dada9ad2c5e6aa595ddc450"
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9633,
+            "modifiedTime": 1548443101293,
+            "changeTime": 1548443101293,
+            "contentHash": "f2d4ee8ae8e2736caa0b42260527ef31ca335afa"
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9585,
+            "modifiedTime": 1548443101304,
+            "changeTime": 1548443101304,
+            "contentHash": "c6ced8d0d1a237bb4de0a95c9354602c0993d676"
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9633,
+            "modifiedTime": 1548443101313,
+            "changeTime": 1548443101313,
+            "contentHash": "358497af09fdc47898971cdfdda8df83a9394877"
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9585,
+            "modifiedTime": 1548443101321,
+            "changeTime": 1548443101321,
+            "contentHash": "8da3a2e4e2726f6d8314e16293d04be63d5a7e4a"
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18115,
+            "modifiedTime": 1548443101348,
+            "changeTime": 1548443101348,
+            "contentHash": "cc80a386227ad06687f84c0626a347351f9c1091"
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 705,
+            "modifiedTime": 1548443101359,
+            "changeTime": 1548443101359,
+            "contentHash": "1c9bb4b0c43e9153a2f953398d85fcef1f641f9a"
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1548443101280,
+            "changeTime": 1548443101280,
+            "contentHash": "ce06810b1370ee18db3a024c8e13fe0221159f67"
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1548443101278,
+            "changeTime": 1548443101278,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1548443101278,
+            "changeTime": 1548443101278,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1548443101321,
+            "changeTime": 1548443101321,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1548443101348,
+            "changeTime": 1548443101348,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ],
+    [
+        "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mnayak/Documents/sfdc_projects/my_sfdx_project/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1548443101359,
+            "changeTime": 1548443101359,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
